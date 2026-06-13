@@ -56,11 +56,7 @@ This project is a Telegram bot designed to convert regular videos into round vid
 - Aspect: Square videos work best (but ofc u can send horizontal ones)
 
 ### License
-This project is MIT licensed. See LICENSE for more information.
----
 
-<div align="center">
-    <h4>Built with ❤️ by <a href="https://t.me/smeshidojoe" target="_blank">SmeshidoJoe</a></h4>
-</div>
+This project is MIT licensed. See LICENSE for more information.
 
 
