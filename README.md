@@ -57,18 +57,10 @@ This project is a Telegram bot designed to convert regular videos into round vid
 
 ### License
 This project is MIT licensed. See LICENSE for more information.
-
-### Support
-If you find this project useful:
-
-- Give it a star ⭐
-- Share with others 🔄
-- Consider contributing 🛠️
-
 ---
 
 <div align="center">
-    <h4>Built with ❤️ by <a href="https://t.me/megiddo_mike" target="_blank">Mike</a></h4>
+    <h4>Built with ❤️ by <a href="https://t.me/smeshidojoe" target="_blank">SmeshidoJoe</a></h4>
 </div>
 
 
